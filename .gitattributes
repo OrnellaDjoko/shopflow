@@ -1,0 +1,5 @@
+# Normalise les fins de ligne pour que Windows, macOS et Linux se comprennent.
+* text=auto
+*.sh  text eol=lf
+mvnw  text eol=lf
+*.cmd text eol=crlf
