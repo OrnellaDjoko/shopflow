@@ -11,7 +11,7 @@ target/
 out/
 
 # --- Secrets et configuration locale : JAMAIS dans Git ---
-.env
+.env.example
 
 # --- Divers ---
 *.log
